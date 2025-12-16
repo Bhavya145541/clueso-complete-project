@@ -77,7 +77,7 @@ A functional clone of Clueso.io, a platform for collecting user feedback with AI
 
 [Link to demo video]
 
-## Assumptions and Design Decisions
+## Design
 
 - Used MongoDB for data storage due to its flexibility for feedback data
 - Implemented a simple prompt for feedback collection; in a real-world scenario, this would be a more sophisticated UI
